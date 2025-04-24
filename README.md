@@ -8,7 +8,7 @@
 #### 2. Clone the Repository.  
 
   ``
-  git clone https://github.com/Vaishnavi063/Java-Project.git
+  git clone https://github.com/Vaishnavi063/java.git
   ``
 
 #### The tables included in the MySQL database are:
